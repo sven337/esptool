@@ -1,3 +1,7 @@
+Binary firmware hacking features for esptool
+
+Minor features for esptool to support use cases that they don't want. PRs were submitted and rejected, but this can be useful to others besides me.
+
 # esptool.py
 
 A Python-based, open-source, platform-independent utility to communicate with the ROM bootloader in Espressif chips.
